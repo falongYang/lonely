@@ -13,7 +13,7 @@
     <properties>
         <junit.version>4.12</junit.version>
         <mybatis.version>3.2.8</mybatis.version>
-        <mysql.version>5.1.25</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <log4j.version>1.2.16</log4j.version>
         <jstl.version>1.2</jstl.version>
         <servlet-api.version>2.5</servlet-api.version>
@@ -116,7 +116,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
-                        <version>5.1.46</version>
+                        <version>8.0.28</version>
                     </dependency>
                     <dependency>
                         <groupId>com.itfsw</groupId>
